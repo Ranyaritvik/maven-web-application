@@ -87,8 +87,8 @@
 		<dependency>
 			<groupId>javax.servlet</groupId>
 			<artifactId>javax.servlet-api</artifactId>
-			<type>jar</version>
-			<classifier>provided</classifier>
+			<version>3.1.0</version>
+			<scope>provided</scope>
 		</dependency>
 		
 	</dependencies>
